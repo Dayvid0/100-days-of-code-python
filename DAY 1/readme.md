@@ -75,7 +75,3 @@ Prompt the user for a number and print `"Even"` if it’s even, `"Odd"` otherwis
 - Learned how short-circuiting optimizes evaluations  
 - Applied Python's ternary syntax for clean one-liners
 
----
-```
-
-Let me know when you're ready for **Day 2**, and I’ll tailor challenges based on your next topic.
