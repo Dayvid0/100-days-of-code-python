@@ -8,6 +8,7 @@
 #for fruits in ["apple", "banana", "cherry"]:
  # print(fruits.upper())
 
-for letter in "python":
-  print(letter)
-print("Python")
+#for letter in "python":
+#  print(letter)
+#print("Python")
+
